@@ -14,7 +14,7 @@ def lambda_handler(event, context=None):
         df = pd.read_csv(response["Body"], names=fieldnames)
         # run etl process
         run_etl_main(df)
-        print('All good bro')
+       
     except Exception as e:
         print(e)
         print(
