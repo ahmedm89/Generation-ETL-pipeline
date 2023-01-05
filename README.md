@@ -18,7 +18,7 @@ Also Daily, weekly or monthly reports for sales figures and other related busine
 
 # They are facing the following problems:
 - The software currently being used only generates reports for single branch.
-- It is time consuming to collate data on all branches, and gathering meaningful data for the company on the whole is difficult, due to the limitations of the software.
+- It is time consuming to collect data on all branches, and gathering meaningful data for the company on the whole is difficult, due to the limitations of the software.
 
 ## As a result
 - The company currently has **no way of identifying trends**, meaning they are potentially losing out on major revenue streams.
