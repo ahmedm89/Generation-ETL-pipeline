@@ -128,7 +128,7 @@ Grafana configured with Redshift for database access & Cloudwatch for Lambda, EC
 ![](markdown/grafana6.png)
 
 
-## Maximum Viable Product (MVP)
+## Maximum Viable Product 
 
 
 ![](markdown/grafana6.png)
