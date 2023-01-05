@@ -17,7 +17,7 @@ A CSV file containing data about every transaction they made for that day is gen
 Also Daily, weekly or monthly reports for sales figures and other related business metrics are created.
 
 # They are facing the following problems:
-- The software currently being used only generates reports for single branche.
+- The software currently being used only generates reports for single branch.
 - It is time consuming to collate data on all branches, and gathering meaningful data for the company on the whole is difficult, due to the limitations of the software.
 
 ## As a result
